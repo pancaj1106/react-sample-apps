@@ -1,0 +1,5 @@
+.video-scroll{
+    flex: 1;
+    overflow-y: scroll;
+    max-height: 600px;
+}
